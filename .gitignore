@@ -41,3 +41,10 @@ example
 # generated native folders
 /ios
 /android
+.env
+.env.*
+*.log
+
+# Backup files
+*.backup.json
+*.backup.txt
